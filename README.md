@@ -14,13 +14,15 @@ A modern and interactive Sales & Revenue Analysis Dashboard built with React, Re
 📂 Import CSV, XLSX, and XLS files
 🔄 Reset to Sample Dataset
 🎨 Clean, responsive ledger-inspired UI
-🛠️ Technologies Used
+
+**Technologies Used**
 React.js
 Recharts
 PapaParse
 SheetJS (xlsx)
 Lucide React Icons
 JavaScript (ES6+)
+
 🚀 Key Highlights
 Dynamic data visualization with real-time filtering.
 Supports importing custom datasets for instant analysis.
